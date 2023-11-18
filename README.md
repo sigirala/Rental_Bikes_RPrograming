@@ -1,1 +1,2 @@
 # Rental_Bikes_RPrograming
+Many large cities are already offering rental bikes to increase mobility convenience. Delivering a sufficient quantity of rental bikes to the city eventually becomes a big challenge. It is essential to have the rental bike ready and open to the public at the right moment to save waiting time. Predicting the volume of bikes required at each hour is crucial to ensuring a consistent supply of rental bikes.
